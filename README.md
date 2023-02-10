@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nekora</h1>
-<h3 align="center">just some random guy who's trying people into catgirls</h3>
+<h3 align="center">i'm just trying to turn people into catgirls</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekoraneko&label=Profile%20views&color=0e75b6&style=flat" alt="nekoraneko" /> </p>
 
